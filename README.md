@@ -1,2 +1,0 @@
-# docker-integration-jenkins
-
